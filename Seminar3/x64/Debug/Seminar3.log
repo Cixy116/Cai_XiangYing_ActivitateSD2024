@@ -1,0 +1,6 @@
+﻿  Seminar3.c
+C:\Users\Cixy\source\repos\Seminar3\Seminar3.c(45,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Cixy\source\repos\Seminar3\Seminar3.c(52,20): warning C4047: '<': 'int' differs in levels of indirection from 'int *'
+C:\Users\Cixy\source\repos\Seminar3\Seminar3.c(68,17): warning C4133: 'initializing': incompatible types - from 'Masina *' to 'Masini *'
+C:\Users\Cixy\source\repos\Seminar3\Seminar3.c(64): warning C4716: 'masiniMulteUsi': must return a value
+  Seminar3.vcxproj -> C:\Users\Cixy\source\repos\Seminar3\x64\Debug\Seminar3.exe
