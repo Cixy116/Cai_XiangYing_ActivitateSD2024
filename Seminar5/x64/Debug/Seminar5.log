@@ -1,0 +1,2 @@
+﻿  Seminar5.c
+C:\Users\Cixy\source\repos\Cai_XiangYing_ActivitateSD2024\Seminar5\Seminar5.c(39): error C4703: potentially uninitialized local pointer variable 'aux' used
